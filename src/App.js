@@ -1,16 +1,18 @@
 import './App.css';
-import {Routes, Route, BrowserRouter} from 'react-router-dom';
+import {Routes, Route,HashRouter} from 'react-router-dom';
 import Login from './components/Login';
-import Home from './components/Home';
+import Employee from './components/Employee';
+
+
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter >
         <Routes>
           <Route path="/" element={<Login/>}/>
-          <Route path="/loginSuccess" element={<Home/>}/>
+          <Route path="/loginSuccess/:Id" element={<Employee/>}/>
         </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
