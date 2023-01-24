@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Router-bai02/static/css/main.073c9b0a.css",
-    "main.js": "/Router-bai02/static/js/main.c905ad6d.js",
+    "main.css": "/Router-bai02/static/css/main.95508f4a.css",
+    "main.js": "/Router-bai02/static/js/main.1f7a121b.js",
     "static/js/787.90413281.chunk.js": "/Router-bai02/static/js/787.90413281.chunk.js",
     "index.html": "/Router-bai02/index.html",
-    "main.073c9b0a.css.map": "/Router-bai02/static/css/main.073c9b0a.css.map",
-    "main.c905ad6d.js.map": "/Router-bai02/static/js/main.c905ad6d.js.map",
+    "main.95508f4a.css.map": "/Router-bai02/static/css/main.95508f4a.css.map",
+    "main.1f7a121b.js.map": "/Router-bai02/static/js/main.1f7a121b.js.map",
     "787.90413281.chunk.js.map": "/Router-bai02/static/js/787.90413281.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.c905ad6d.js"
+    "static/css/main.95508f4a.css",
+    "static/js/main.1f7a121b.js"
   ]
 }
